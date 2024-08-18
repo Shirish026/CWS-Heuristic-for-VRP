@@ -22,11 +22,7 @@ cd cws-heuristic-vrp
 ```
 
 **Install dependencies:**
-Ensure you have Python 3.x installed. Then, install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
+Ensure you have Python 3.x installed. The file uses python built-in libraries like math and operator.
 
 **Unzip the Data Folder in the same directory**
 
