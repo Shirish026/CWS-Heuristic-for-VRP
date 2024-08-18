@@ -16,17 +16,19 @@ This repository implements the Clarke-Wright Savings (CWS) Heuristic algorithm f
 
 **Clone the repository:**
 
-Copy code
 ```bash
 git clone https://github.com/yourusername/cws-heuristic-vrp.git
 cd cws-heuristic-vrp
 ```
+
 **Install dependencies:**
 Ensure you have Python 3.x installed. Then, install the required packages:
 
 ```bash
 pip install -r requirements.txt
 ```
+
+**Unzip the Data Folder in the same directory**
 
 ## Usage
 To run the Clarke-Wright Savings Heuristic algorithm on a sample dataset, use the provided Jupyter notebook __cws_heuristic_vrp.ipynb__:
